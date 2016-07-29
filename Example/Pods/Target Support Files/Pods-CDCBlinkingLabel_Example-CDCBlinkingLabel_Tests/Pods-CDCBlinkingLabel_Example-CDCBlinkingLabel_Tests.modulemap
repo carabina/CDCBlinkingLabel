@@ -1,0 +1,6 @@
+framework module Pods_CDCBlinkingLabel_Example_CDCBlinkingLabel_Tests {
+  umbrella header "Pods-CDCBlinkingLabel_Example-CDCBlinkingLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

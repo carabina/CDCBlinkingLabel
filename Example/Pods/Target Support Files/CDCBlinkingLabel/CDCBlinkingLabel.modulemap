@@ -1,0 +1,6 @@
+framework module CDCBlinkingLabel {
+  umbrella header "CDCBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

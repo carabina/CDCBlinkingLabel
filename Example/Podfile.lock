@@ -1,0 +1,14 @@
+PODS:
+  - CDCBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - CDCBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  CDCBlinkingLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CDCBlinkingLabel: 48db839febe4b031278342f9f3e7b5ebafea85c8
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_CDCBlinkingLabel_Example_CDCBlinkingLabel_Tests : NSObject
+@end
+@implementation PodsDummy_Pods_CDCBlinkingLabel_Example_CDCBlinkingLabel_Tests
+@end
