@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CDCBlinkingLabel_Example' do
+  pod 'CDCBlinkingLabel', :path => '../'
+
+  target 'CDCBlinkingLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
